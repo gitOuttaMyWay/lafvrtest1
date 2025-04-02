@@ -1,80 +1,80 @@
-1RAC,A,1,5,Boost Count +1
-7PJA,A,1,5,Boost Count +1
-CG2G,A,1,5,Boost Count +1
-G2NC,A,1,5,Boost Count +1
-P63T,A,1,5,Boost Count +1
-Q7RW,A,1,5,Boost Count +1
-RXQF,A,1,5,Boost Count +1
-TBAV,A,1,5,Boost Count +1
-VUKC,A,1,5,Boost Count +1
-W537,A,1,5,Boost Count +1
-4HXY,B,2,50,Boost Count +2
-92CA,B,2,50,Boost Count +2
-H9Q9,B,2,50,Boost Count +2
-KAKA,B,2,50,Boost Count +2
-N360,B,2,50,Boost Count +2
-PRKN,B,2,50,Boost Count +2
-R197,B,2,50,Boost Count +2
-VJ7F,B,2,50,Boost Count +2
-W5ZW,B,2,50,Boost Count +2
-YGNJ,B,2,50,Boost Count +2
-1U92,C,3,15,Boost Count +3
-2940,C,3,15,Boost Count +3
-43VA,C,3,15,Boost Count +3
-6R75,C,3,15,Boost Count +3
-89M8,C,3,15,Boost Count +3
-BBJ9,C,3,15,Boost Count +3
-MMWV,C,3,15,Boost Count +3
-NTM5,C,3,15,Boost Count +3
-PJR9,C,3,15,Boost Count +3
-PZD0,C,3,15,Boost Count +3
-46PN,D,5,100,Boost Count +5
-D11U,D,5,100,Boost Count +5
-DBXP,D,5,100,Boost Count +5
-FZ1C,D,5,100,Boost Count +5
-HD1M,D,5,100,Boost Count +5
-MVMC,D,5,100,Boost Count +5
-PN6U,D,5,100,Boost Count +5
-R3WC,D,5,100,Boost Count +5
-R83H,D,5,100,Boost Count +5
-YW02,D,5,100,Boost Count +5
-2364,E,1,10,FFR 10
-789N,E,1,10,FFR 10
-DE14,E,1,10,FFR 10
-MZ6V,E,1,10,FFR 10
-N4C6,E,1,10,FFR 10
-QBXU,E,1,10,FFR 10
-QKA4,E,1,10,FFR 10
-R9T2,E,1,10,FFR 10
-TG55,E,1,10,FFR 10
-Z228,E,1,10,FFR 10
-0RGN,F,2,25,FFR 25
-67E8,F,2,25,FFR 25
-AN6G,F,2,25,FFR 25
-DBD8,F,2,25,FFR 25
-FAU6,F,2,25,FFR 25
-KRHB,F,2,25,FFR 25
-TDTF,F,2,25,FFR 25
-TVFB,F,2,25,FFR 25
-W8Z9,F,2,25,FFR 25
-XYCE,F,2,25,FFR 25
-1KKQ,G,5,50,FFR 50
-6PZW,G,5,50,FFR 50
-6T0P,G,5,50,FFR 50
-80AH,G,5,50,FFR 50
-CE1E,G,5,50,FFR 50
-FQH6,G,5,50,FFR 50
-K9JD,G,5,50,FFR 50
-T9K5,G,5,50,FFR 50
-XN6R,G,5,50,FFR 50
-ZH25,G,5,50,FFR 50
-0CDJ,H,1,10,VRC+ Sub
-6GTN,H,1,10,VRC+ Sub
-6YNG,H,1,10,VRC+ Sub
-8JNR,H,1,10,VRC+ Sub
-8YYQ,H,1,10,VRC+ Sub
-9267,H,1,10,VRC+ Sub
-DJVH,H,1,10,VRC+ Sub
-G5NQ,H,1,10,VRC+ Sub
-PH89,H,1,10,VRC+ Sub
-T6J5,H,1,10,VRC+ Sub
+3CRF,A,5,5,Boost Count +5
+42KX,A,5,5,Boost Count +5
+5ZNU,A,5,5,Boost Count +5
+HYJR,A,5,5,Boost Count +5
+KNQ4,A,5,5,Boost Count +5
+QAC0,A,5,5,Boost Count +5
+QCXJ,A,5,5,Boost Count +5
+TYJB,A,5,5,Boost Count +5
+YC4T,A,5,5,Boost Count +5
+ZY8R,A,5,5,Boost Count +5
+0FF0,B,10,50,Boost Count +10
+BDEE,B,10,50,Boost Count +10
+CNP5,B,10,50,Boost Count +10
+F4JU,B,10,50,Boost Count +10
+P4TW,B,10,50,Boost Count +10
+P8DQ,B,10,50,Boost Count +10
+TMG9,B,10,50,Boost Count +10
+UP2M,B,10,50,Boost Count +10
+UX5N,B,10,50,Boost Count +10
+ZTN9,B,10,50,Boost Count +10
+3PC8,C,15,15,Boost Count +15
+7DZR,C,15,15,Boost Count +15
+DMQW,C,15,15,Boost Count +15
+FF17,C,15,15,Boost Count +15
+FWNU,C,15,15,Boost Count +15
+Q8VR,C,15,15,Boost Count +15
+REM4,C,15,15,Boost Count +15
+RG3T,C,15,15,Boost Count +15
+VK7R,C,15,15,Boost Count +15
+XDGK,C,15,15,Boost Count +15
+2HB0,D,25,100,Boost Count +25
+5XGB,D,25,100,Boost Count +25
+74HT,D,25,100,Boost Count +25
+8TEA,D,25,100,Boost Count +25
+GECB,D,25,100,Boost Count +25
+M7A7,D,25,100,Boost Count +25
+TYYC,D,25,100,Boost Count +25
+TZDK,D,25,100,Boost Count +25
+V522,D,25,100,Boost Count +25
+X6WP,D,25,100,Boost Count +25
+0YX9,E,5,10,FFR 10
+6JV9,E,5,10,FFR 10
+BJ95,E,5,10,FFR 10
+J8X0,E,5,10,FFR 10
+KW98,E,5,10,FFR 10
+MGUZ,E,5,10,FFR 10
+MZCD,E,5,10,FFR 10
+TBYD,E,5,10,FFR 10
+VPPN,E,5,10,FFR 10
+W47G,E,5,10,FFR 10
+2HA5,F,10,25,FFR 25
+5Z8P,F,10,25,FFR 25
+67WD,F,10,25,FFR 25
+FTDJ,F,10,25,FFR 25
+H1EG,F,10,25,FFR 25
+J2NH,F,10,25,FFR 25
+KFJT,F,10,25,FFR 25
+KNQG,F,10,25,FFR 25
+P6BE,F,10,25,FFR 25
+RH7E,F,10,25,FFR 25
+1VWQ,G,25,50,FFR 50
+2AC1,G,25,50,FFR 50
+3V9T,G,25,50,FFR 50
+AZRR,G,25,50,FFR 50
+FGP3,G,25,50,FFR 50
+GWXG,G,25,50,FFR 50
+H20J,G,25,50,FFR 50
+HA36,G,25,50,FFR 50
+RXCJ,G,25,50,FFR 50
+WKCT,G,25,50,FFR 50
+16HJ,H,5,10,VRC+ Sub
+2P59,H,5,10,VRC+ Sub
+55PF,H,5,10,VRC+ Sub
+6U3U,H,5,10,VRC+ Sub
+FG2C,H,5,10,VRC+ Sub
+J1Q0,H,5,10,VRC+ Sub
+MG5M,H,5,10,VRC+ Sub
+MXGD,H,5,10,VRC+ Sub
+NCBE,H,5,10,VRC+ Sub
+UA8D,H,5,10,VRC+ Sub
