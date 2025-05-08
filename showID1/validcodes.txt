@@ -1,4 +1,4 @@
-,10,50,Boost Count +10
+ABVD,10,50,Boost Count +10
 EAG4,B,10,50,Boost Count +10
 HB3P,B,10,50,Boost Count +10
 RH2H,B,10,50,Boost Count +10
